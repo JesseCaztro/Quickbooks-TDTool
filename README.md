@@ -1,0 +1,1 @@
+Simple tool for quickbook users who recieve an error from TDBank web connect. When financial institution can not be found, it is due to FID and BID not being recognized as TD bank, this program searches and replaces those codes, saves the files as a _modified version and opens that version.
